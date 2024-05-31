@@ -1,8 +1,12 @@
-Project 5- School Surveillance System  
-Kunal
-Pratyush Srivastav
-Grade: Class XII
-School Name:  Students of Shaheed Rajpal DAV Public School , Delhi.
+# Project 5: School Surveillance System
+
+**Contributor:**
+- Kunal Pratyush Srivastav
+
+**Grade:** XII
+
+**School:** Shaheed Rajpal DAV Public School, Delhi
+
 
 
 # Face Recognition System using OpenCV and Face Recognition Library
