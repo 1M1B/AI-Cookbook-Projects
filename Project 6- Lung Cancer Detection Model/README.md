@@ -1,10 +1,8 @@
-PROJECT 6: Lung Cancer Detection 
-Dataset drive link - https://drive.google.com/drive/folders/1r2WHqkM82UX20D0fzBDTbFLIlfSiGihU?usp=sharing
+# Project 6: Lung Cancer Detection
 
-# Project 5: School Surveillance System
+**Dataset Drive Link:** [Google Drive](https://drive.google.com/drive/folders/1r2WHqkM82UX20D0fzBDTbFLIlfSiGihU?usp=sharing)
 
 **Contributors:**
-- Kunal Pratyush Srivastav
 - Rohan Sharma
 - Rishit Awasthi
 - Krrish Aggarwal
@@ -12,4 +10,3 @@ Dataset drive link - https://drive.google.com/drive/folders/1r2WHqkM82UX20D0fzBD
 **Grade:** XII
 
 **School:** Venkateshwar International School, Delhi
-
