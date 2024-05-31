@@ -1,4 +1,8 @@
-PROJECT 2- Breast Cancer Detection Model
-Sarah Nibo
-Grade: Class XII
-School Name:  Shaheed Rajpal DAV Public School, Delhi.
+# Project 2: Breast Cancer Detection Model
+
+**Contributor:**
+- Sarah Nibo
+
+**Grade:** XII
+
+**School:** Shaheed Rajpal DAV Public School, Delhi
